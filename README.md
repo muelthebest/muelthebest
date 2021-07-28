@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Samuel Elias
 - 👀 Conheço esse mundo dev desde de 9/10/2020
-- 🌱 Atualmente estou dominando Java, Spring Boot, Mysql
-- 📚 Quero aprender: JSX, Thymelea, Spring Cloud
+- 🌱 Atualmente tenho conhecimentos solidos em Java e Spring Boot
+- 📚 Quero aprender: Angular e JSF
 - 💞️ Estou tentando colaborar em minha jornada como dev com cada vez mais conhecimento
-- 📫 Pode falar comigo por aqui
+- 📫 linkedin : https://www.linkedin.com/in/samueleliasdev/ 
