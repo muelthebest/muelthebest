@@ -9,7 +9,7 @@ i really like to be productive and i want show how you can be too.
 
 -    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
 
--    Editor: <b>Vim</b> 
+-    Editor:  global editor for terminal, intellij and vscode --> <b>Vim</b>, java --> <b>Intellij IDEA</b>, javascript --> <b>VSCODE</b> 
 
 -    Main programming languages: <b>Java</b> and <b>javascript</b>
 
