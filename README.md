@@ -11,7 +11,7 @@ i really like to be productive and i want show how you can be too.
 
 -    Editor: <b>Vim</b> 
 
--    Main programming languages: <bJava</b> and <b>javascript</b>
+-    Main programming languages: <b>Java</b> and <b>javascript</b>
 
 -    Secondary programming languages: <b>C</b> and <b>bash languages</b>
 
