@@ -1,6 +1,6 @@
 ## Hello visitors, Welcome to my profile, let me introduce my environment and development!
 
-### environment
+### Environment
 i really like to be productive and i want show how you can be too.
 
 > Environment Pieces:
@@ -14,15 +14,24 @@ i really like to be productive and i want show how you can be too.
 -     Main programming languages: Java and javascript
 
 -     Secondary programming languages: C and bash languages
-     
-##### programming main languages experiences:
+
+
+### Development
+
+##### Programming main languages experiences:
 
 >> <b>Java</b>  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="20">:
-My actually development language,
+My actually development language
 
-building Restful Apis using <b>Spring Boot</b> framework is my backend work form  
+building Restful Apis using <b>Spring Boot</b> framework is my backend work form.
 
-###### programming secondary languages experiences: 
+Main development structure: <b>Microservices</b>
+
+##### Programming secondary languages experiences: 
 
 C language and bash languages to compose dwm and yours suckless,
 including in this profile i will most many scripts and my graphic interface config.
+
+###### Despite listing these technologies, I'm always looking for new experiences, so wait for more in this profile
+
+<p align="center">Made by Samuel Elias 💜</p>
