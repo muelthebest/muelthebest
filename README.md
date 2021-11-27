@@ -5,15 +5,15 @@ i really like to be productive and i want show how you can be too.
 
 > Environment Pieces:
 
--     Operational System: <b>Linux</b>
+-    Operational System: <b>Linux</b>
 
--     Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
+-    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
 
--     Editor: <b>Vim</b> 
+-    Editor: <b>Vim</b> 
 
--     Main programming languages: Java and javascript
+-    Main programming languages: Java and javascript
 
--     Secondary programming languages: C and bash languages
+-    Secondary programming languages: C and bash languages
 
 
 ### Development
