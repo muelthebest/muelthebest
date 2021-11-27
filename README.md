@@ -5,21 +5,22 @@ i really like to be productive and i want show how you can be too.
 
 > Environment Pieces:
 
--   Operational System: <b>Linux</b>
+-     Operational System: <b>Linux</b>
 
--    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
+-     Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
 
 -     Editor: <b>Vim</b> 
 
 -     Main programming languages: Java and javascript
 
 -     Secondary programming languages: C and bash languages
--     
+     
 ##### programming main languages experiences:
 
 >> <b>Java</b>  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="20">:
 My actually development language,
-i build Restful Apis using <b>Spring Boot</b> framework
+
+building Restful Apis using <b>Spring Boot</b> framework is my backend work form  
 
 ###### programming secondary languages experiences: 
 
