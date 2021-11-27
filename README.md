@@ -29,7 +29,7 @@ Main development structure: <b>Microservices</b>
 
 ##### Programming secondary languages experiences: 
 
-C language and bash languages to compose dwm and yours suckless,
+<b>C</b> language and <b>bash languages</b> to compose dwm and yours suckless,
 including in this profile i will most many scripts and my graphic interface config.
 
 ###### Despite listing these technologies, I'm always looking for new experiences, so wait for more in this profile
