@@ -3,21 +3,25 @@
 ### environment
 i really like to be productive and i want show how you can be too.
 
-> environment pieces:
+> Environment Pieces:
 
-Operational System: Linux
+-   Operational System: <b>Linux</b>
 
-Graphic Interface: dwm (Desktop Window Manager)
+-    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
 
-Editor: Vim 
+-     Editor: <b>Vim</b> 
 
-Main programming languages: Java and javascript
+-     Main programming languages: Java and javascript
 
+-     Secondary programming languages: C and bash languages
+-     
 ##### programming main languages experiences:
 
->> Java  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="16">
+>> <b>Java</b>  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="20">:
+My actually development language,
+i build Restful Apis using <b>Spring Boot</b> framework
 
-###### programming second languages experiences: 
+###### programming secondary languages experiences: 
 
 C language and bash languages to compose dwm and yours suckless,
 including in this profile i will most many scripts and my graphic interface config.
