@@ -34,7 +34,7 @@ including in this profile i will most many scripts and my graphic interface conf
 
 ###### Despite listing these technologies, I'm always looking for new experiences, so wait for more in this profile
 
-###### DEMO ON MY DWM
+###### DEMO OF MY DWM
 
 <img src="https://github.com/muelthebest/muelthebest/blob/main/pic-full-211127-1246-41.png" >
 
