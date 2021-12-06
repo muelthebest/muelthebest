@@ -7,7 +7,7 @@ i really like to be productive and i want show how you can be too.
 
 -    Operational System: <b>Linux</b>
 
--    Linux Distribution: Artix
+-    Linux Distribution: <b>Artix</b>
 
 -    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
 
