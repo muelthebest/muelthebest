@@ -7,6 +7,8 @@ i really like to be productive and i want show how you can be too.
 
 -    Operational System: <b>Linux</b>
 
+-    Linux Distribution: Artix
+
 -    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
 
 -    Editor:  global editor for terminal, intellij and vscode --> <b>Vim</b>, java --> <b>Intellij IDEA</b>, javascript --> <b>VSCODE</b> 
@@ -23,7 +25,7 @@ i really like to be productive and i want show how you can be too.
 >> <b>Java</b>  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="20">:
 My actually development language
 
-building Restful Apis using <b>Spring Boot</b> framework is my backend work form.
+building Restful Apis using <b>Spring Boot</b> framework is my work form with backend.
 
 Main development structure: <b>Microservices</b>
 
@@ -36,6 +38,6 @@ including in this profile i will most many scripts and my graphic interface conf
 
 ###### DEMO OF MY DWM
 
-<img src="https://github.com/muelthebest/muelthebest/blob/main/pic-full-211127-1246-41.png" >
+<img src="https://github.com/muelthebest/muelthebest/blob/main/pic-full-211205-2201-06.png" >
 
 <p align="center">Made by Samuel Elias 💜</p>
