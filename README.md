@@ -25,7 +25,7 @@ i really like to be productive and i want show how you can be too.
 >> <b>Java</b>  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="20">:
 My actually development language
 
-building Restful Apis using <b>Spring Boot</b> framework.
+I build Restful Apis using <b>Spring Boot</b> framework.
 
 Main development structure: <b>Microservices</b>
 
