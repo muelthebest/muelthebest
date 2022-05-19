@@ -13,9 +13,9 @@ i really like to be productive and i want show how you can be too.
 
 -    Editor:  global editor for terminal, intellij and vscode --> <b>Vim</b>, java --> <b>Intellij IDEA</b>, javascript --> <b>VSCODE</b> 
 
--    Main programming languages: <b>Java</b> and <b>javascript</b>
+-    Main programming languages: <b>Java</b> and <b>Dart</b>
 
--    Secondary programming languages: <b>Dart</b> and <b>bash languages</b>
+-    Secondary programming languages: <b>Javascript</b> and <b>bash languages</b>
 
 
 ### Development
