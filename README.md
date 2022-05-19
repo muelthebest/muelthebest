@@ -15,7 +15,7 @@ i really like to be productive and i want show how you can be too.
 
 -    Main programming languages: <b>Java</b> and <b>javascript</b>
 
--    Secondary programming languages: <b>C</b> and <b>bash languages</b>
+-    Secondary programming languages: <b>Dart</b> and <b>bash languages</b>
 
 
 ### Development
