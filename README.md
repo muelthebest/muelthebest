@@ -31,5 +31,5 @@ You can find evidence of my expertise in Java development, where I specialize in
 While these technologies form the foundation of my expertise, I am always open to new experiences and continuously seek growth opportunities. Stay tuned for more updates and exciting projects on this profile!
 
 ![Demo of My DWM](https://github.com/muelthebest/muelthebest/blob/main/pic-full-211205-2201-06.png)
-
+![Other DWM](https://github.com/samueldevel/samueldevel/blob/main/pic-full-211127-1246-41.png?raw=true)
 Made by Samuel Elias 💜
