@@ -1,43 +1,37 @@
-## Hello visitors, Welcome to my profile, let me introduce my environment and development!
+# Samuel Elias
 
-### Environment
-i really like to be productive and i want show how you can be too.
+![Profile Picture](profile-picture.jpg)
 
-> Environment Pieces:
+## Biography
 
--    Operational System: <b>Linux</b>
+I am a dedicated and passionate professional with 3 years of experience in the technology industry. Throughout my career, I have gained solid knowledge in various fields.
 
--    Linux Distribution: <b>Artix</b>
+### Linux and Arch Linux Experience
 
--    Graphic Interface: <b>Dwm (Desktop Window Manager)</b>
+From the early stages of my journey, I have immersed myself in the world of Linux, with a particular focus on the Arch Linux operating system. Through customization and tackling technical challenges, I have explored different distributions and deepened my understanding of Arch Linux's inner workings.
 
--    Editor:  global editor for terminal, intellij and vscode --> <b>Vim</b>, java --> <b>Intellij IDEA</b>, javascript --> <b>VSCODE</b> 
+### Project Experience
 
--    Main programming languages: <b>Java</b> and <b>Dart</b>
+I have actively contributed to projects within my company, making significant contributions to their success. My expertise extends to a wide range of technologies, including React.js, Next.js, Spring Boot, Java, WCM (Web Content Management), Portlets, JavaScript, HTML, and CSS. I am well-versed in both monolithic and microservices architectures, understanding the advantages and challenges of each approach.
 
--    Secondary programming languages: <b>Javascript</b> and <b>bash languages</b>
+### Professional Skills
 
+Throughout my professional journey, I have demonstrated strong problem-solving abilities, adaptability, and a continuous learning mindset. I am committed to enhancing my technical skills and staying up-to-date with the latest trends in the technology industry.
 
-### Development
+## Development Environment
 
-##### Programming main languages experiences:
+In terms of my development environment, I prioritize productivity and aim to share tips on achieving the same. Here are the key components:
 
->> <b>Java</b>  <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="20">:
-My actually development language
+- **Operating System**: Linux (specifically, Artix distribution)
+- **Window Manager**: Dwm (Desktop Window Manager)
+- **Editor**: I utilize Vim as my go-to terminal editor and employ Intellij IDEA for Java development, alongside VSCode for JavaScript.
+- **Main Programming Languages**: Java and Dart
+- **Secondary Programming Languages**: JavaScript and Bash
 
-I build Restful Apis using <b>Spring Boot</b> framework.
+You can find evidence of my expertise in Java development, where I specialize in building RESTful APIs using the Spring Boot framework. Additionally, I leverage my knowledge of C and Bash languages to customize my Dwm window manager. On my profile, you will discover various scripts and configurations related to my graphical interface.
 
-Main development structure: <b>Microservices</b>
+While these technologies form the foundation of my expertise, I am always open to new experiences and continuously seek growth opportunities. Stay tuned for more updates and exciting projects on this profile!
 
-##### Programming secondary languages experiences: 
+![Demo of My DWM](https://github.com/muelthebest/muelthebest/blob/main/pic-full-211205-2201-06.png)
 
-<b>C</b> language and <b>bash languages</b> to compose dwm and yours suckless,
-including in this profile i will most many scripts and my graphic interface config.
-
-###### Despite listing these technologies, I'm always looking for new experiences, so wait for more in this profile
-
-###### DEMO OF MY DWM
-
-<img src="https://github.com/muelthebest/muelthebest/blob/main/pic-full-211205-2201-06.png" >
-
-<p align="center">Made by Samuel Elias 💜</p>
+Made by Samuel Elias 💜
