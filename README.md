@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am a dedicated and passionate professional with 3 years of experience in the technology industry. Throughout my career, I have gained solid knowledge in various fields.
+I am a dedicated and passionate professional with 2 years of experience in the technology industry. Throughout my career, I have gained solid knowledge in various fields.
 
 ### Linux and Arch Linux Experience
 
