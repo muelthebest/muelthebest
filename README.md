@@ -1,6 +1,6 @@
 # Samuel Elias
 
-![Profile Picture](profile-picture.jpg)
+![Profile Picture](https://avatars.githubusercontent.com/u/81378783?v=4)
 
 ## Biography
 
