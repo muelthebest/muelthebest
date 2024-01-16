@@ -23,7 +23,7 @@ In terms of my development environment, I prioritize productivity and aim to sha
 - **Operating System**: Linux (specifically, Artix distribution)
 - **Window Manager**: Dwm (Desktop Window Manager)
 - **Editor**: I utilize Vim as my go-to terminal editor and employ Intellij IDEA for Java development, alongside VSCode for JavaScript.
-- **Main Programming Languages**: Java and Dart
+- **Main Programming Tools**: Java and Spring Boot
 - **Secondary Programming Languages**: JavaScript and Bash
 
 You can find evidence of my expertise in Java development, where I specialize in building RESTful APIs using the Spring Boot framework. Additionally, I leverage my knowledge of C and Bash languages to customize my Dwm window manager. On my profile, you will discover various scripts and configurations related to my graphical interface.
