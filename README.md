@@ -10,7 +10,7 @@ From the early stages of my journey, I have immersed myself in the world of Linu
 
 ### Project Experience
 
-I have actively contributed to projects within my company, making significant contributions to their success. My expertise extends to a wide range of technologies, including React.js, Next.js, Spring Boot, Java, WCM (Web Content Management), Portlets, JavaScript, HTML, and CSS. I am well-versed in both monolithic and microservices architectures, understanding the advantages and challenges of each approach.
+I have actively contributed to projects within my company, making significant contributions to their success. My expertise extends to a wide range of technologies, including React.js, Next.js, Spring Boot, Java, WCM (Web Content Management), Portlets. I am well-versed in both monolithic and microservices architectures, understanding the advantages and challenges of each approach.
 
 ### Professional Skills
 
